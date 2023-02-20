@@ -1,0 +1,356 @@
+{
+  "default": [
+    {
+      "expression": "*.310d1de9-5d01-416b-914d-ccd2ba96cc0a",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "pz9kDBD_Y"
+    },
+    {
+      "expression": "*.amazon.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "oBv6fis91d"
+    },
+    {
+      "expression": "*.crunchyroll.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "wESbP-vwHY"
+    },
+    {
+      "expression": "*.github.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "OYPTPfPx4u"
+    },
+    {
+      "expression": "*.google.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Naey5nRA8A"
+    },
+    {
+      "expression": "*.live.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "XVvffhB3QE"
+    },
+    {
+      "expression": "*.memrise.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "99eRRiUOYc"
+    },
+    {
+      "expression": "*.mercadolibre.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "dSxjq6jo2"
+    },
+    {
+      "expression": "*.mercadolibre.com.mx",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "YIrZVy9nY"
+    },
+    {
+      "expression": "*.telegram.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "4AXKNisvlN"
+    },
+    {
+      "expression": "*.yahoo.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "U9UrCWtRNN"
+    },
+    {
+      "expression": "academy.joystick.com.mx",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "8eeYXS1yNF"
+    },
+    {
+      "expression": "amazon.com.mx",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "BDPVK-oTNp"
+    },
+    {
+      "expression": "amazon.fr",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "UL6e0cVaLr"
+    },
+    {
+      "expression": "animeflv.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "oMShTic5tT"
+    },
+    {
+      "expression": "contexto.me",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "9l2qEU9Lc8"
+    },
+    {
+      "expression": "deviantart.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "91Jz7D3fXY"
+    },
+    {
+      "expression": "disneyplus.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "esxt3gWWjBS"
+    },
+    {
+      "expression": "duolingo.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "KLBE9QmS2gB"
+    },
+    {
+      "expression": "genius.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "KoWvOaudD-f"
+    },
+    {
+      "expression": "github.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "x8KHAjWv7l0"
+    },
+    {
+      "expression": "gog.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "EoBJwlCSwMY"
+    },
+    {
+      "expression": "imdb.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "TC9UuCEggnk"
+    },
+    {
+      "expression": "jkanime.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "bDO3M8rr6Nc"
+    },
+    {
+      "expression": "justwatch.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Du9zhC4Fc0q"
+    },
+    {
+      "expression": "lapalabradeldia.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "QLIIvNWRBHe"
+    },
+    {
+      "expression": "last.fm",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "bY7_XiV5CAA"
+    },
+    {
+      "expression": "monkeytype.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "BYJ2_n3iPYT"
+    },
+    {
+      "expression": "netflix.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "U4ExTfnarVf"
+    },
+    {
+      "expression": "notion.so",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "hfy1SOBSSIk"
+    },
+    {
+      "expression": "outlook.live.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "ctYgR94kFhu"
+    },
+    {
+      "expression": "paramount.com.mx",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "jCleMr6kNp6"
+    },
+    {
+      "expression": "paramountplus.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "bH1oV6i_vpb"
+    },
+    {
+      "expression": "play.hbomax.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Jri-Xe3DT"
+    },
+    {
+      "expression": "primevideo.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "haWzkao9GKO"
+    },
+    {
+      "expression": "remnote.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "xJXuax-zyXA"
+    },
+    {
+      "expression": "sammobile.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "XCdkdLg6beR"
+    },
+    {
+      "expression": "starplus.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "6kpbbZSiQya"
+    },
+    {
+      "expression": "twitch.tv",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "e77PZvir1nr"
+    },
+    {
+      "expression": "twitter.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "LJjNmBCrI"
+    },
+    {
+      "expression": "udemy.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "AMRt7wCRtIz"
+    },
+    {
+      "expression": "vix.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "2e26pwGBSIN"
+    },
+    {
+      "expression": "web.whatsapp.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "JHlNd4EO4eQ"
+    },
+    {
+      "expression": "youtube.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "F59Xn3dWhbV"
+    }
+  ]
+}
