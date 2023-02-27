@@ -121,6 +121,22 @@
       "id": "oMShTic5tT"
     },
     {
+      "expression": "busuu.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "bZN7Nh8D7"
+    },
+    {
+      "expression": "chat.openai.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "8JBxnyKiI"
+    },
+    {
       "expression": "contexto.me",
       "listType": "WHITE",
       "storeId": "default",
