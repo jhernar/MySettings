@@ -25,6 +25,14 @@
       "id": "wESbP-vwHY"
     },
     {
+      "expression": "*.ea.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Pqpn_DMBR"
+    },
+    {
       "expression": "*.github.com",
       "listType": "WHITE",
       "storeId": "default",
@@ -71,6 +79,14 @@
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "YIrZVy9nY"
+    },
+    {
+      "expression": "*.refold.la",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "1-ZyDwOWh"
     },
     {
       "expression": "*.telegram.org",
@@ -143,6 +159,14 @@
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "9l2qEU9Lc8"
+    },
+    {
+      "expression": "coolors.co",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "PKjqZdZQX"
     },
     {
       "expression": "deviantart.com",
