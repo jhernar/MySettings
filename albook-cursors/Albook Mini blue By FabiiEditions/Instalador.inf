@@ -1,0 +1,51 @@
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, Scheme.Txt
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%"
+
+; -- Common Information
+
+[Scheme.Cur]
+left_ptr.cur
+helpme.cur
+left_ptr_watch.ani
+watch.ani
+text.cur
+Forbidden.cur
+size_ver.ani
+size_hor.ani
+size_fdiag.ani
+size_bdiag.ani
+size_all.cur
+pointing_hand.cur
+crossy.cur
+pencil.cur
+up_arrow.cur
+
+[Strings]
+CUR_DIR       = "Albook mini Blue By FabiiEditions"
+SCHEME_NAME   = "Albook mini Blue By FabiiEditions"
+pointer       = "left_ptr.cur"
+help          = "helpme.cur"
+work          = "left_ptr_watch.ani"
+busy          = "watch.ani"
+text          = "text.cur"
+unavailiable  = "Forbidden.cur"
+vert          = "size_ver.ani"
+horz          = "size_hor.ani"
+dgn1          = "size_fdiag.ani"
+dgn2          = "size_bdiag.ani"
+move          = "size_all.cur"
+link          = "pointing_hand.cur"
+cross         = "crossy.cur"
+hand          = "pencil.cur"
+alternate     = "up_arrow.cur"
